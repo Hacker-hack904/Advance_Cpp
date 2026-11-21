@@ -1,0 +1,12 @@
+//Create enum and display days
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+	enum days{mon,tue,wed,thu,fri,sat,sun};
+       days d1=sat;
+	clrscr();
+	cout<<"Thusrseday:"<<thu<<endl;
+	cout<<"Saturday:"<<d1;
+	getch();
+}
