@@ -1,2 +1,2 @@
-# Practice
-My practice in c++ language
+# C++
+My logical programs of c++
